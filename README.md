@@ -16,6 +16,7 @@ The goal was to monitor and visualize suspicious login attempts across multiple 
 - **Source IPs with Timestamps** – detailed view of attack traffic  
 
 ## 🖼️ Example Screenshot
+<img width="1914" height="904" alt="Screenshot 2025-09-25 151636" src="https://github.com/user-attachments/assets/9b5d3f20-4252-4922-ba9b-b35d51c79721" />
 
 
 ## 📈 Insights
